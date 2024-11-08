@@ -1,2 +1,3 @@
-# flutter_ms_shopping_list_app
-6th app of Maximilian Schwarzmüller - Flutter &amp; Dart - The Complete Guide [2024 Edition] Udemy Course
+# Shopping List App 
+
+6th application of [Maximilian Schwarzmüller - Flutter & Dart - The Complete Guide [2024 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Udemy Course
